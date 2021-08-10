@@ -1,0 +1,1 @@
+A custom Collection class - to support the CTDataframes package.

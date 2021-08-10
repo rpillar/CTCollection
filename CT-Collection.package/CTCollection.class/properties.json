@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "RichardPillar 8/1/2021 18:22",
+	"super" : "OrderedCollection",
+	"category" : "CT-Collection",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "CTCollection",
+	"type" : "variable"
+}
