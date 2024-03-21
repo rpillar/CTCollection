@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "TestCase",
+	"category" : "CT-Collection-Tests-Base",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "CTCollectionTest",
+	"type" : "normal"
+}
