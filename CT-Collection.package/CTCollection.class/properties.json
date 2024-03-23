@@ -1,7 +1,7 @@
 {
 	"commentStamp" : "RichardPillar 8/1/2021 18:22",
 	"super" : "OrderedCollection",
-	"category" : "CT-Collection",
+	"category" : "CT-Collection-Base",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
